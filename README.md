@@ -14,7 +14,6 @@ This is a **mandatory foundational project** at 42 schools, meant to solidify yo
 - Writing a reusable C library
 - Understanding how C standard functions work under the hood
 - Memory management (malloc, free)
-- Defensive programming and edge-case handling
 - Organizing code with headers and Makefiles
 
 ## ✅ Functions Implemented
