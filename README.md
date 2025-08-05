@@ -68,7 +68,4 @@ make re         # Recompiles everything
 
 ---
 
-## 🤝 Acknowledgements
 
-Thanks to the 42 community and all contributors who've shared insights and testers. ❤️  
-If you're starting Libft, **you got this!** 💪
