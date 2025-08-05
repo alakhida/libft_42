@@ -10,6 +10,14 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+/*
+** Allocates and returns a new string, which is the result of the concatenation
+** of 's1' and 's2'. The memory for the new string is obtained with malloc.
+** If 's1' is NULL, it is treated as an empty string.
+** The original 's1' is freed after joining.
+** Returns the new string, or NULL if allocation fails.
+*/
+
 #include "libft.h"
 
 char	*ft_strjoin(char *s1, char *s2)
